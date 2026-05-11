@@ -1,5 +1,5 @@
 [build]
-  command = "cd files && npm run build"
+  command = "cd files && npm install && npm run build"
   publish = "files/dist"
 
 [[redirects]]
