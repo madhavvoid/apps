@@ -1,0 +1,8 @@
+[build]
+  command = "cd files && npm run build"
+  publish = "files/dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
