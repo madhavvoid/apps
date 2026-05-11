@@ -14,7 +14,11 @@ function Navbar({ currentPage, navigateTo }) {
       <div className="navbar__inner">
         {/* Brand */}
         <button className="navbar__brand" onClick={() => navigateTo("home")}>
-          <span className="navbar__logo-icon">🍃</span>
+          <img
+            src="/logo.jpeg"
+            alt="Saffron & Salt logo"
+            className="navbar__logo-img"
+          />
           <span className="navbar__brand-text">
             Saffron<em>&amp;</em>Salt
           </span>

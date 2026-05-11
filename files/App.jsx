@@ -83,7 +83,7 @@ function App() {
       time: "2 hr",
       servings: 8,
       difficulty: "Hard",
-      image: "https://images.unsplash.com/photo-1541599468348-e96984315921?w=600&q=80",
+      image: "https://livforcake.com/wp-content/uploads/2017/01/chocolate-ganache-tart-5.jpg.webp",
       description:
         "A bittersweet ganache in a buttery shortcrust shell. Finished with flaked sea salt and a whisper of espresso.",
       tags: ["Dessert", "Chocolate", "French"],
@@ -149,7 +149,7 @@ function App() {
       time: "10 min",
       servings: 2,
       difficulty: "Easy",
-      image: "https://images.unsplash.com/photo-1541519227354-08fa5d50c820?w=600&q=80",
+      image: "https://www.eatme.eu/media/dwpb21km/avocado-toast-met-roerei-en-avocado.jpg?width=1200&height=630&v=1db0d29d0478590",
       description:
         "Elevated avocado toast on thick-cut sourdough. Topped with pickled radish, dukkah, and a soft poached egg.",
       tags: ["Vegetarian", "Breakfast", "Quick"],

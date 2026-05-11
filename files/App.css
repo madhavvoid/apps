@@ -84,6 +84,7 @@ input, select, textarea { font-family: inherit; }
   text-decoration: none;
 }
 .navbar__logo-icon { font-size: 1.4rem; }
+.navbar__logo-img { height: 40px; width: auto; object-fit: contain; }
 .navbar__brand-text {
   font-family: var(--font-serif);
   font-size: 1.35rem;
